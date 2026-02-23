@@ -1,0 +1,7 @@
+Implementation,Configuration,Time (s)
+Pthreads,1 Thread,0.001443
+Pthreads,2 Threads,0.00095
+Pthreads,4 Threads,0.026915
+Pthreads,8 Threads,0.005246
+MPI,Hello MPI,0.0005
+MPI,Ping-Pong (avg),0.0009076666666666668
