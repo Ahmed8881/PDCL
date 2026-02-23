@@ -1,0 +1,9 @@
+program,threads,time_seconds
+C_sequential,1,0.04
+C_pthread,1,0.1
+C_pthread,2,0.06
+C_pthread,4,0.17
+C_pthread,8,0.13
+Python_sequential,1,1.8
+Python_threads,4,3.16
+Python_multiprocessing,4,1.38
